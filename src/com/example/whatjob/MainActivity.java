@@ -19,6 +19,7 @@ public class MainActivity extends Activity {
 		return true;
 		
 		int x =2;
+		int y=3;
 	}
 
 }
